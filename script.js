@@ -22,9 +22,11 @@
 // TASK 1:
 // returns the century of the year inputted
 // assume input year ≥ 1
-// Ex: 2020 returns 21
-// Ex: 1900 returns 20
 // Ex: 1 returns 1
+// Ex: 99 returns 1
+// Ex: 100 returns 2
+// Ex: 305 returns 4
+// Ex: 2020 returns 21
 function getCentury(year) {
   // HINT: Math.floor() or Math.ceil()
   /* code below 👇 */
