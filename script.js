@@ -33,11 +33,11 @@ function getCentury(year) {
   
 }
 // use these to make sure your function above is working properly
-console.log(getCentury(2020)); // 21
-console.log(getCentury(1900)); // 20
 console.log(getCentury(1)); // 1
-
-
+console.log(getCentury(99)); // 1
+console.log(getCentury(100)); // 2
+console.log(getCentury(305)); // 4
+console.log(getCentury(2020)); // 21
 
 
 // DO NOT EDIT THIS FUNCTION
