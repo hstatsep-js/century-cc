@@ -1,7 +1,7 @@
 /*****************************************/
 // DIRECTIONS
 // 1. Read the ENTIRE starter code & comments
-// 2. Code the getCentury() method. Make sure it works before moving forward. No googling. Don't skip the learning. This isn't about points. It's about problem-solving.
+// 2. Code the getCentury() function. Make sure it works before moving forward. No googling. Don't skip the learning. This isn't about points. It's about problem-solving.
 // 3. Feel free to read the suffix() method, but don't edit it!
 // 4. Code the printYearCentury() method.
 // 5. Code the askUserYear() method.
