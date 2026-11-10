@@ -102,7 +102,7 @@ askUserYear();
 // EXTENSION:
 // Write a function that gets the 2-digit year within the current century.
 // Example: 2056 --> returns --> 56
-// See if you can incorporate this into the `printYearCentury` function.
+// Then incorporate it into the `printYearCentury` function.
 // Example: The year 2056 is the 56th year of the 21st century.
 // Make sure you test it out!
 
